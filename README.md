@@ -1,2 +1,10 @@
-# chatbot
-Leveraging AI and NLP, the chatbot project crafts a user-friendly conversational agent. It adapts to diverse platforms, prioritizes security, evolves through user feedback, and envisions enhanced features for an intuitive user experience in the future.
+# ChatBot with Spoonacular API
+
+This Python script implements a simple chatbot that interacts with the Spoonacular API to search for food ingredients and recipes. The bot recognizes specific words in user input, calculates message probabilities, and retrieves information from the Spoonacular API.
+
+## Features
+
+- Recognizes user input using regular expressions
+- Searches for food ingredients based on user queries
+- Searches for recipes based on user queries
+- Retrieves detailed information about specific recipes
